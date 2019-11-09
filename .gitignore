@@ -1,0 +1,8 @@
+node_modules
+dist
+package-lock.json
+
+# sphinx folders
+_build
+_static
+_templates
